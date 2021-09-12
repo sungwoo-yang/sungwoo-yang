@@ -1,5 +1,5 @@
 ### Hi there 👋
-## My name is Sungwoo Yang, and I'm 20 years old.
+My name is Sungwoo Yang, and I'm 20 years old.
 
 - 🔭 I’m currently working on Digipen of KMU
 - 🌱 I’m currently learning C++ and Geometry
