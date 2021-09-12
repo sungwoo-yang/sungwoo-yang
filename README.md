@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+## My name is Sungwoo Yang.
+## I'm 20 years old.
+
 - 🔭 I’m currently working on Digipen of KMU
 - 🌱 I’m currently learning C++ and Geometry
 - 👯 I’m looking to collaborate on Smilegate
